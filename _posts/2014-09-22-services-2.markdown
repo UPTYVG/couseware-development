@@ -2,7 +2,7 @@
 layout: default
 img: Stock_Equinox_15.png
 category: Services
-title: •	Instructor guides
+title: Instructor guides
 description: |
 ---
   Using our guides’ instructor can prepare himself/herself to the training almost from the scratch.
