@@ -19,6 +19,7 @@ copyright: 'Copyright &copy; 2017 Evgsoft. All Rights Reserved.'
 # Build settings
 markdown: kramdown
 permalink: pretty
+exclude: [scripts, vendor, README.md, Gemfile]
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -31,7 +32,7 @@ social:
     url: https://github.com/
   - title: linkedin
     url: 
-  - title: envelope
-    url: email@evg-soft.com
+  - title: e-mail
+    url:  mailto:email@evg-soft.com
   - title: skype
     url: eugene_belous
