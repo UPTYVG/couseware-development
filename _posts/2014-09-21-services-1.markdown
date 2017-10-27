@@ -2,11 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Competitive edge
+title: Student guides
 description: |
 ---
-  We work in your time area 
-Our partnership can be structured to best fit your organization’s needs: 
-Developing courseware according to your agenda. 
-Providing you with our courseware on lease conditions 
-Developing virtual machines for training
+ Our guides help student to follow by the instructor and do exercises in a simplest way. Step-by-step instructions of technical training help students to keep the plan of the lessons and understand material better than ever. Such approach will help to learn the subject very fast.
