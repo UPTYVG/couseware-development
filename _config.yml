@@ -38,5 +38,3 @@ social:
     url: mailto:email@evg-soft.com
     descr:
          en: Email
-  - title: skype
-    url:  {% if author.skype %}<li><a href="skype:{{ eugene_belous }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-skype"></i></a></li>{% endif %}
