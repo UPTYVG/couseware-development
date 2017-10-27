@@ -2,7 +2,11 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Competitive edge
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  We work in your time area 
+Our partnership can be structured to best fit your organization’s needs: 
+Developing courseware according to your agenda. 
+Providing you with our courseware on lease conditions 
+Developing virtual machines for training
