@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: Stock_Equinox_15.png
 category: Services
 title: •	Instructor guides
 description: |
