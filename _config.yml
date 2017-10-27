@@ -32,7 +32,10 @@ social:
     url: https://github.com/
   - title: linkedin
     url: 
-  - title: E-mail
-    url:  mailto:email@evg-soft.com
+  
+  - title: envelope
+    url: mailto:email@evg-soft.com
+    descr:
+         en: Email me
   - title: skype
     url: eugene_belous
