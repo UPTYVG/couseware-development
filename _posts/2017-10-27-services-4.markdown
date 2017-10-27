@@ -1,1 +1,9 @@
 
+---
+layout: default
+img: Stock_Equinox_2.png
+category: Services
+title: e-learning
+description: | 
+---
+SCORM based materials adequately can be used in any LMS system
