@@ -19,9 +19,7 @@ copyright: 'Copyright &copy; 2017 Evgsoft. All Rights Reserved.'
 # Build settings
 markdown: kramdown
 permalink: pretty
-exclude: [scripts, vendor, README.md, Gemfile]
-gems:
-  - jekyll-include-cache
+
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
